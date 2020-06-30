@@ -122,7 +122,7 @@ hr{
     margin-bottom: 20px;
 }
 
-@media only screen and(max-width: 900px){
+@media (max-width: 900px){
     .green span{
         font-family: 'Lato', sans-serif;
         font-style: normal;
@@ -133,8 +133,8 @@ hr{
     }
 
     .second-part img{
-        width: 60px;
-        height: 60px;
+        width: 50px;
+        height: 50px;
     }
 
     .second-part span{
@@ -155,5 +155,6 @@ hr{
         line-height: 16px;
         color: #1F2430;
     }
+
 }
 
