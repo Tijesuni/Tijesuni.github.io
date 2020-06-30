@@ -127,9 +127,33 @@ hr{
         font-family: 'Lato', sans-serif;
         font-style: normal;
         font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: #00945E;
+    }
+
+    .second-part img{
+        width: 60px;
+        height: 60px;
+    }
+
+    .second-part span{
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        color: #323E48;
+    }
+
+    .first-section .card-header{
+        background-color: #fff;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: 500;
         font-size: 14px;
         line-height: 16px;
-        color: #00945E;
+        color: #1F2430;
     }
 }
 
